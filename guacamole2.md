@@ -1,4 +1,6 @@
-#This is a test
-#Guac Recipe
+#Guacamole
 ##Ingredients
+* avocado
+* lime 
+* salt
 ##Instructions
